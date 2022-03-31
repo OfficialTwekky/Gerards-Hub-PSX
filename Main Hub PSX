@@ -1,0 +1,7 @@
+--Top #1 PSX Gui
+--Comes with many features
+--Premium features
+--Compatible with any executor
+--Works with mobile and arceus x
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialTwekky/Huge-Games-Hub/main/Huge%20Games"))()
